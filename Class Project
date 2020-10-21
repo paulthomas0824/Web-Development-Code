@@ -47,3 +47,47 @@ and open the template in the editor.
         </div>
     </body>
 </html>
+
+#############################################################
+This is the Explore.html
+#############################################################
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Explore</title>
+    <link href="../css/styles.css" rel="stylesheet" type="text/css">
+     <style>
+            body { 
+                background: url("explorepage.jpg")no-repeat fixed center; 
+            }
+            
+           ul.a {
+                list-style-type: square;
+               font-size: 22px;
+               font-weight: bolder;
+               color:whitesmoke;
+               text-align: left;
+            }
+             ul.b {
+                list-style-type: square;
+               font-size: 22px;
+               font-weight: bolder;
+               color:whitesmoke;
+               text-align: center;
+               display: table;
+               margin: 0 auto;
+               padding: 0;
+               text-align: top;
+            }
+            
+        </style>
+  </head>
+  <body>
+  <ul class="a">
+      <li><a href="https://www.nps.gov/bibe/index.htm" target="blank">Texas</a></li>
+    
+      
+   
+  </body>
+</html>
